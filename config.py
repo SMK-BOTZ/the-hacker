@@ -9,4 +9,4 @@ class Config:
     TOKEN = os.environ.get("TOKEN", None)
     MONGO_URL = "mongodb+srv://anmol0700:anmol0700@cluster0.x6zba.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     START_PIC = "https://telegra.ph/file/a8ba8edd60489a54f2f84.jpg"
-    SUDOERS = filters.user(["6691393517"])
+    SUDOERS = filters.user(["5340652544"])
